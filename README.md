@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Example: 
+- 👀 Interested in different kinds of programming including Golang, Python, Machine Learning
+- 👀 Now work as a Fullstack Web-developer with PHP, Laravel, JavaScript and VueJS
+- 💞️ Open for collaborations on open-source and commercial projects
 -->
