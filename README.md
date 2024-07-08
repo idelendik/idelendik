@@ -4,9 +4,20 @@
 
 # Hi, I'm Igor 👋
 
-<p>Welcome to my profile</p>
+<p>Welcome to my profile. Have a nice day.</p>
 
 [![LinkedIn](https://img.shields.io/badge/idelendik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idelendik/)
+
+### A bit about me
+- 💞️ Love [refactoring](https://github.com/idelendik/gilded-rose)
+
+<!--
+- 👀 Interested in different kinds of programming including Golang, Python, Machine Learning
+- 👀 Now work as a Fullstack Web-developer with PHP, Laravel, JavaScript and VueJS
+- 👷 Open for collaborations on open-source and commercial projects
+- 🔭 I’m currently working on ...
+- 🌱 Currently learning ...
+-->
 
 ### Tech stack
 |                 |       |
@@ -21,25 +32,3 @@
 | Database | <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /> |
 | DevOps | <img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" /><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /><img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" /> |
 | Operating system | <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" /> |
-
-
-<!--
-- Love [refactoring](https://github.com/idelendik/gilded-rose)
-**idelendik/idelendik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Example: 
-- 👀 Interested in different kinds of programming including Golang, Python, Machine Learning
-- 👀 Now work as a Fullstack Web-developer with PHP, Laravel, JavaScript and VueJS
-- 💞️ Open for collaborations on open-source and commercial projects
--->
