@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/idelendik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idelendik/)
 
 ### A bit about me
-- 💞️ Love write tests and do [refactoring](https://github.com/idelendik/gilded-rose)
+- 💞️ Love to write tests and do [refactoring](https://github.com/idelendik/gilded-rose)
 
 <!--
 - 👀 Interested in different kinds of programming including Golang, Python, Machine Learning
