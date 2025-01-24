@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/idelendik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idelendik/)
 
 ### A bit about me
+- 🔌 Develop WordPress plugins: [expiration-actions](https://github.com/idelendik/expiration-actions)
 - 💞️ Love to write tests and do [refactoring](https://github.com/idelendik/gilded-rose)
 
 <!--
